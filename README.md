@@ -1,2 +1,3 @@
-# jogo-velha
-Jogo da velha com utilização de HTML, CSS e JavaScript criado no desafio de projeto do Bootcamp Órbi Web Games Developer.
+# Jogo Velha
+
+Jogo da velha desenvolvido no desafio de projeto do Bootcamp Órbi Web Games Developer.
